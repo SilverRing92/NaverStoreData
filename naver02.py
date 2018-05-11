@@ -2,7 +2,7 @@
 # 오픈 api 형식 이용한 url로 접근해서 json으로 데이터 받기
 
 import json
-import requests
+import requests # 테스트
 
 s_name = 'klairs' #스토어팜 이름 영문으로 작성
 p_number = '119945641' #상품 번호 작성
